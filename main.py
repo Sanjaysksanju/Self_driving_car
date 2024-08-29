@@ -4,6 +4,7 @@ from lane_detection import detect_lane
 from traffic_signal_detection import detect_traffic_signal
 
 def main():
+#this detect obstacle 
     obstacle_detector = ObstacleDetection()
     cap = cv2.VideoCapture(0)
 
