@@ -1,4 +1,4 @@
-#### SELF DRIVING CAR USING RASPBERRY PI
+### SELF DRIVING CAR USING RASPBERRY PI
 
 ---
 
@@ -146,14 +146,14 @@ Press `q` to quit the application.
 ## Video & Image Examples
 
 ### 1. **Lane Detection:**
-(![image](https://github.com/user-attachments/assets/efba4134-98c1-4aa0-8186-99f75f6f10de)
+![image](https://github.com/user-attachments/assets/efba4134-98c1-4aa0-8186-99f75f6f10de)
 
 *Explanation*: The robot captures the road ahead and identifies yellow lane lines, as shown in the green overlay.
 
 ---
 
 ### 2. **Obstacle Detection:**
-(![image](https://github.com/user-attachments/assets/b8231d5e-1e38-4428-9c5f-2b618ca786e1)
+![image](https://github.com/user-attachments/assets/b8231d5e-1e38-4428-9c5f-2b618ca786e1)
 
 *Explanation*: When an obstacle is detected within the threshold distance (25 cm), the robot stops, as indicated by the log messages.
 
