@@ -153,7 +153,7 @@ Press `q` to quit the application.
 ---
 
 ### 2. **Obstacle Detection:**
-![Obstacle Detection](images/obstacle_detection.png)
+![Obstacle Detection]("D:\self_driving_car\Demo_Videos_and_PPT\WhatsApp Video 2024-09-12 at 8.41.35 PM.mp4")
 
 *Explanation*: When an obstacle is detected within the threshold distance (25 cm), the robot stops, as indicated by the log messages.
 
